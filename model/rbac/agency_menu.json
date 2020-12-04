@@ -1,0 +1,402 @@
+{
+  "menu_id": "525c57f2-39ad-4180-85ed-ecaab4fa567b",
+  "parent_id": "",
+  "path": "/",
+  "name": "TOP",
+  "sequence": 1,
+  "field": 31,
+  "menu_type": 1,
+  "code": "TOP",
+  "icon": "TOP",
+  "file": "",
+  "children": [
+    {
+      "menu_id": "fd957194-7fc7-4a65-a23f-6fba2fb744b7",
+      "parent_id": "525c57f2-39ad-4180-85ed-ecaab4fa567b",
+      "path": "/statistic",
+      "name": "数据概况",
+      "sequence": 1,
+      "field": 6,
+      "menu_type": 1,
+      "code": "statistic",
+      "icon": "icon-shuju",
+      "file": "",
+      "children": [
+        {
+          "menu_id": "3d5744b2-99ae-4e9f-b472-b7fa463ed5a1",
+          "parent_id": "fd957194-7fc7-4a65-a23f-6fba2fb744b7",
+          "path": "statisticIndex",
+          "name": "数据概况",
+          "sequence": 1,
+          "field": 6,
+          "menu_type": 2,
+          "code": "statisticIndex",
+          "icon": "",
+          "file": "/statistic/statisticIndex/statisticIndex",
+          "children": []
+        }
+      ]
+    },
+    {
+      "menu_id": "ee775a0a-9db2-4e59-8dcd-a4aca0f15616",
+      "parent_id": "525c57f2-39ad-4180-85ed-ecaab4fa567b",
+      "path": "/school",
+      "name": "校区管理",
+      "sequence": 2,
+      "field": 6,
+      "menu_type": 1,
+      "code": "school",
+      "icon": "icon-xiaoqubaifang",
+      "file": "",
+      "children": [
+        {
+          "menu_id": "87d81ac8-b8b6-4a61-8782-eaa27b6b213f",
+          "parent_id": "ee775a0a-9db2-4e59-8dcd-a4aca0f15616",
+          "path": "schoolManage",
+          "name": "校区管理",
+          "sequence": 1,
+          "field": 6,
+          "menu_type": 2,
+          "code": "schoolManage",
+          "icon": "",
+          "file": "/school/schoolManage/schoolManage",
+          "children": []
+        },
+        {
+          "menu_id": "60444126-0f17-4b51-87eb-823ce7d700c4",
+          "parent_id": "ee775a0a-9db2-4e59-8dcd-a4aca0f15616",
+          "path": "schoolPerson",
+          "name": "校区人员管理",
+          "sequence": 2,
+          "field": 6,
+          "menu_type": 2,
+          "code": "schoolPerson",
+          "icon": "",
+          "file": "/school/schoolPerson/schoolPerson",
+          "children": []
+        }
+      ]
+    },
+    {
+      "menu_id": "199fbd3a-5894-462f-bdda-1a82c244effa",
+      "parent_id": "525c57f2-39ad-4180-85ed-ecaab4fa567b",
+      "path": "/course",
+      "name": "课程体系",
+      "sequence": 3,
+      "field": 6,
+      "menu_type": 1,
+      "code": "course",
+      "icon": "icon-kecheng",
+      "file": "",
+      "children": [
+        {
+          "menu_id": "08328285-508e-4ee8-b676-a2efeeb5ca1e",
+          "parent_id": "199fbd3a-5894-462f-bdda-1a82c244effa",
+          "path": "courseStage",
+          "name": "课程阶段",
+          "sequence": 1,
+          "field": 6,
+          "menu_type": 2,
+          "code": "courseStage",
+          "icon": "",
+          "file": "/course/courseStage/courseStage",
+          "children": []
+        },
+        {
+          "menu_id": "21ed9030-1891-462d-a7b9-d9a11fd403d6",
+          "parent_id": "199fbd3a-5894-462f-bdda-1a82c244effa",
+          "path": "courseInfo",
+          "name": "课程信息",
+          "sequence": 2,
+          "field": 6,
+          "menu_type": 2,
+          "code": "courseInfo",
+          "icon": "",
+          "file": "/course/courseInfo/courseInfo",
+          "children": []
+        },
+        {
+          "menu_id": "a1228054-3672-4e1a-8d89-993cdcd571eb",
+          "parent_id": "199fbd3a-5894-462f-bdda-1a82c244effa",
+          "path": "courseAuth",
+          "name": "课程授权",
+          "sequence": 3,
+          "field": 6,
+          "menu_type": 2,
+          "code": "courseAuth",
+          "icon": "",
+          "file": "/course/courseAuth/courseAuth",
+          "children": []
+        }
+      ]
+    },
+    {
+      "menu_id": "c24b1337-83db-4b24-bee5-43cb684263a0",
+      "parent_id": "525c57f2-39ad-4180-85ed-ecaab4fa567b",
+      "path": "/class",
+      "name": "班级管理",
+      "sequence": 4,
+      "field": 6,
+      "menu_type": 1,
+      "code": "class",
+      "icon": "icon-banji",
+      "file": "",
+      "children": [
+        {
+          "menu_id": "66f4ac8f-a8aa-4703-9478-c1fa6c0fe02b",
+          "parent_id": "c24b1337-83db-4b24-bee5-43cb684263a0",
+          "path": "classManage",
+          "name": "班级管理",
+          "sequence": 1,
+          "field": 6,
+          "menu_type": 2,
+          "code": "classManage",
+          "icon": "",
+          "file": "/course/classManage/classManage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "menu_id": "9af38c92-4c03-4b6f-8578-9257fa3fdd02",
+      "parent_id": "525c57f2-39ad-4180-85ed-ecaab4fa567b",
+      "path": "/teacher",
+      "name": "老师管理",
+      "sequence": 5,
+      "field": 6,
+      "menu_type": 1,
+      "code": "teacher",
+      "icon": "icon-laoshi",
+      "file": "",
+      "children": [
+        {
+          "menu_id": "7d7f50fe-5e66-4fb2-b28e-b0be57ca8033",
+          "parent_id": "9af38c92-4c03-4b6f-8578-9257fa3fdd02",
+          "path": "teacherManage",
+          "name": "老师管理",
+          "sequence": 1,
+          "field": 6,
+          "menu_type": 2,
+          "code": "teacherManage",
+          "icon": "",
+          "file": "/teacher/teacherManage/teacherManage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "menu_id": "f7563138-687e-48b9-afe4-5076b48534f9",
+      "parent_id": "525c57f2-39ad-4180-85ed-ecaab4fa567b",
+      "path": "/student",
+      "name": "学员管理",
+      "sequence": 6,
+      "field": 6,
+      "menu_type": 1,
+      "code": "student",
+      "icon": "icon-xueyuan",
+      "file": "",
+      "children": [
+        {
+          "menu_id": "02ccbfef-0608-4636-b319-234510375f21",
+          "parent_id": "f7563138-687e-48b9-afe4-5076b48534f9",
+          "path": "studentManage",
+          "name": "学员管理",
+          "sequence": 1,
+          "field": 6,
+          "menu_type": 2,
+          "code": "studentManage",
+          "icon": "",
+          "file": "/student/studentManage/studentManage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "menu_id": "1c895850-d667-41ca-bfbd-c2a54ce1b5ae",
+      "parent_id": "525c57f2-39ad-4180-85ed-ecaab4fa567b",
+      "path": "/opus",
+      "name": "作品管理",
+      "sequence": 7,
+      "field": 6,
+      "menu_type": 1,
+      "code": "opus",
+      "icon": "icon-zuopin",
+      "file": "",
+      "children": [
+        {
+          "menu_id": "4f66b671-29a7-4fe2-8ba3-1fb07fd4edd3",
+          "parent_id": "1c895850-d667-41ca-bfbd-c2a54ce1b5ae",
+          "path": "opusManage",
+          "name": "作品管理",
+          "sequence": 1,
+          "field": 6,
+          "menu_type": 2,
+          "code": "opusManage",
+          "icon": "",
+          "file": "/opus/opusManage/opusManage",
+          "children": []
+        },
+        {
+          "menu_id": "e3211fcf-b6f7-430f-b68c-82cad6af1262",
+          "parent_id": "1c895850-d667-41ca-bfbd-c2a54ce1b5ae",
+          "path": "starRank",
+          "name": "点赞排行榜",
+          "sequence": 2,
+          "field": 6,
+          "menu_type": 2,
+          "code": "starRank",
+          "icon": "",
+          "file": "/opus/starRank/starRank",
+          "children": []
+        }
+      ]
+    },
+    {
+      "menu_id": "37a7f505-b39f-4df3-ad3d-7fbea1341cea",
+      "parent_id": "525c57f2-39ad-4180-85ed-ecaab4fa567b",
+      "path": "/source",
+      "name": "素材管理",
+      "sequence": 8,
+      "field": 6,
+      "menu_type": 1,
+      "code": "source",
+      "icon": "icon-sucai",
+      "file": "",
+      "children": [
+        {
+          "menu_id": "c86b9a95-4d66-4633-9a9e-8b55ed7d8e2f",
+          "parent_id": "37a7f505-b39f-4df3-ad3d-7fbea1341cea",
+          "path": "sourceManage",
+          "name": "素材管理",
+          "sequence": 1,
+          "field": 6,
+          "menu_type": 2,
+          "code": "sourceManage",
+          "icon": "",
+          "file": "/source/sourceManage/sourceManage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "menu_id": "ffc89495-7579-402e-8878-bc45e1e96dad",
+      "parent_id": "525c57f2-39ad-4180-85ed-ecaab4fa567b",
+      "path": "/",
+      "name": "机构管理",
+      "sequence": 9,
+      "field": 1,
+      "menu_type": 1,
+      "code": "",
+      "icon": "",
+      "file": "",
+      "children": [
+        {
+          "menu_id": "751bd354-bf2e-4af1-93a2-725165175f0e",
+          "parent_id": "ffc89495-7579-402e-8878-bc45e1e96dad",
+          "path": "",
+          "name": "",
+          "sequence": 1,
+          "field": 6,
+          "menu_type": 2,
+          "code": "",
+          "icon": "",
+          "file": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "menu_id": "58c5e09e-c3a0-4abb-a2dd-de32a2b379de",
+      "parent_id": "525c57f2-39ad-4180-85ed-ecaab4fa567b",
+      "path": "/",
+      "name": "套餐管理",
+      "sequence": 10,
+      "field": 1,
+      "menu_type": 1,
+      "code": "",
+      "icon": "",
+      "file": "",
+      "children": [
+        {
+          "menu_id": "0ef3d2f0-7955-45ac-a76d-50a418896b22",
+          "parent_id": "58c5e09e-c3a0-4abb-a2dd-de32a2b379de",
+          "path": "",
+          "name": "",
+          "sequence": 1,
+          "field": 6,
+          "menu_type": 2,
+          "code": "",
+          "icon": "",
+          "file": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "menu_id": "6f1fcb6b-f1f5-4cd7-ac10-cfd6955706f0",
+      "parent_id": "525c57f2-39ad-4180-85ed-ecaab4fa567b",
+      "path": "/system",
+      "name": "系统管理",
+      "sequence": 20,
+      "field": 2,
+      "menu_type": 1,
+      "code": "system",
+      "icon": "icon-xitong",
+      "file": "",
+      "children": [
+        {
+          "menu_id": "4f905040-619e-41c8-8a36-ceaf497b6917",
+          "parent_id": "6f1fcb6b-f1f5-4cd7-ac10-cfd6955706f0",
+          "path": "roleManage",
+          "name": "角色管理",
+          "sequence": 1,
+          "field": 2,
+          "menu_type": 2,
+          "code": "roleManage",
+          "icon": "",
+          "file": "/system/roleManage/roleManage",
+          "children": []
+        },
+        {
+          "menu_id": "583f0f35-6b00-4240-ae27-57939824724d",
+          "parent_id": "6f1fcb6b-f1f5-4cd7-ac10-cfd6955706f0",
+          "path": "userManage",
+          "name": "用户管理",
+          "sequence": 2,
+          "field": 2,
+          "menu_type": 2,
+          "code": "userManage",
+          "icon": "",
+          "file": "/system/userManage/userManage",
+          "children": []
+        },
+        {
+          "menu_id": "6f930ca4-d6b2-40bd-831a-24931e9f07d9",
+          "parent_id": "6f1fcb6b-f1f5-4cd7-ac10-cfd6955706f0",
+          "path": "logoManage",
+          "name": "操作日志",
+          "sequence": 4,
+          "field": 2,
+          "menu_type": 2,
+          "code": "logoManage",
+          "icon": "",
+          "file": "/system/logoManage/logoManage",
+          "children": []
+        },
+        {
+          "menu_id": "141aadf1-7427-420c-9bfd-5151f0322ebc",
+          "parent_id": "6f1fcb6b-f1f5-4cd7-ac10-cfd6955706f0",
+          "path": "organInfo",
+          "name": "机构信息",
+          "sequence": 5,
+          "field": 2,
+          "menu_type": 2,
+          "code": "organInfo",
+          "icon": "",
+          "file": "/system/organInfo/organInfo",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
